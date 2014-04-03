@@ -7,7 +7,7 @@ An emacs configuration backup / switcher
 Usage:
 ------
 
-  `$0 [flag]`
+  `emacs_config [flag]`
 
 Flags:
 ------
