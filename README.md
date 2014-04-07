@@ -1,13 +1,18 @@
-emacs-config
-============
+emacs-config-switcher
+=====================
 
 An emacs configuration backup / switcher
+
+Installation:
+-------------
+
+Place `emacs-config` into your user bin directory (`~/bin`) or another favorite location and add it to your `PATH`
 
 
 Usage:
 ------
 
-  `emacs_config [flag]`
+  `emacs-config [flag]`
 
 Flags:
 ------
